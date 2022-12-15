@@ -29,6 +29,9 @@ _For payees_, connect your wallet to access redeem page
 
 Note: this is possible as VAAs are logged with reference to whom they are designated for.
 
+This is comparable to existing web2 payment flow (i.e Stripe payment link).
+Payer pays via the payment page. Payee checks transfers from the dashboard and cash out.
+
 ## improvement suggestion
 easy query of VAAs by originating address or destined address would enable xPay concept and many more insteresting use-cases.
 
