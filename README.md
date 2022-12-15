@@ -1,4 +1,4 @@
-# wormhole-xpay
+# wormhole-xPay
 Get paid from various blockchains easily with your personal xPay payment acceptance page powered by Wormhole xAsset bridge.
 
 xDapp: https://wormhole-xpay.netlify.app/#/xpay
@@ -27,7 +27,11 @@ _For payees_, connect your wallet to access redeem page
 - check the VAAs received
 - then redeem by clicking buttons (no awkwards inputs needed)
 
-Note: this is possible as VAAs are saved with reference to whom they are designated for.
+Note: this is possible as VAAs are logged with reference to whom they are designated for.
 
 ## improvement suggestion
 easy query of VAAs by originating address or destined address would enable xPay concept and many more insteresting use-cases.
+
+token bridge UX can be improved by thinking in terms of payer and payee (though they might be the same person) to avoid confusing multiple logins.
+
+redemption and recovery can be less scary / confusing if these can be done by connecting the wallet and being able to see what to redeem or recover
